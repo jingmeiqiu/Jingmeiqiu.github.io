@@ -11,7 +11,7 @@ main:
     url: /publications/  
 
   - title: "Members"
-    url: /group/ 
+    url: /member/ 
 
   - title: "Teaching"
     url: /teaching/    
