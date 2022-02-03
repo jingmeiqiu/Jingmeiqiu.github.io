@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juntao Huang"
+title                    : "Jing-Mei Qiu"
 title_separator          : "-"
-name                     : &name "Juntao Huang"
-description              : &description "Visiting Assistant Professor"
-url                      : https://JuntaoHuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jing-Mei Qiu"
+description              : &description "Professor"
+url                      : https://jingmeiqiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JuntaoHuang/JuntaoHuang.github.io"
+repository               : "jingmeiqiu/Jingmeiqiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "huangj75@msu.edu"
+    email                : "jingqiu@udel.edu"
   generatedFields:
     date:
       type               : "date"
