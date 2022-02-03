@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Education and professional experience"
+    url: /education/
+
   - title: "Publications"
     url: /publications/
 
