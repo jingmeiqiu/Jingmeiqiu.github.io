@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio"
+title: 
 permalink: /education/
 author_profile: true
 ---
