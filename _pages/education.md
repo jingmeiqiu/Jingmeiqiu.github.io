@@ -19,6 +19,7 @@ Professional Experience
 ======
 
 - Research Associate, Department of Mathematics, Michigan State University, 2007-2008. 
+
   Mentor: [Professor Andrew Christlieb](http://www.the-christlieb-group.org/)
 - Assistant Professor, Department of Mathematical Science, Colorado School of Mines, 2008-2011.
 - Assistant Professor, Department of Mathematics, University of Houston, 2011-2014.
