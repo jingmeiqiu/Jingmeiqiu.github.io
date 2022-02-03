@@ -9,44 +9,61 @@ author_profile: true
 
 ## Preprints
 
-8\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu.
+69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu.
 
-7\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu. 
+68\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu. 
 
-6\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu. 
+67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu. 
 
-5\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong. 
+66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong. 
 
-4\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu. 
+65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu. 
 
-3\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu.
+64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu.
 
-2\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, in revision. 
+63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, in revision. 
 
-1\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding and J.-M. Qiu, SIAM Multiscale Modeling and Simulation, in revision.  
+62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding and J.-M. Qiu, SIAM Multiscale Modeling and Simulation, in revision.  
 
 ## Publications in Refereed Journals
 
-\item A High Order Semi-Lagrangian Finite Difference Method for nonlinear Vlasov and BGK Models, L. Li, J.-M. Qiu and G. Russo,  {\bf Communications on Applied Mathematics and Computation}, (2022), Pages 1-29. 
-\item A conservative semi-Lagrangian hybrid Hermite WENO scheme for linear transport equations and the nonlinear Vlasov-Poisson system, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu,  {\bf SIAM Journal of Scientific Computing}, v43 (2021), Pages 3580-3606.
-\item  An Eulerian-Lagrangian discontinuous Galerkin method for transport problems and its application to nonlinear dynamics , X. Cai, J.-M. Qiu, and Yang Yang,  {\bf Journal of Computational Physics}, 2021. 
-\item High Order Semi-Lagrangian Discontinuous Galerkin Method Coupled with Runge-Kutta Exponential Integrators for Nonlinear Vlasov Dynamics, X. Cai, S. Boscarino, and J.-M. Qiu, {\bf Journal of Computational Physics}, v427 (2021), Pages 110036. 
-\item Stability-enhanced AP IMEX1-LDG method: energy-based stability and rigorous AP property, Z. Peng, Y. Cheng, J.-M. Qiu, and F. Li, {\bf SIAM Journal on Numerical Analysis}, v59 (2021), Pages 925-954. 
-\item Adaptive Order WENO Reconstructions for the Semi-Lagrangian Finite Difference Scheme for advection problem, J. Chen, X. Cai, J. Qiu, J.-M. Qiu, {\bf Communications in Computational Physics}, v30(2021), Pages 67-96. 
-\item Comparison of semi-Lagrangian discontinuous Galerkin schemes for linear and nonlinear transport simulations, X. Cai, W. Guo and J.-M. Qiu, {\bf Communications on Applied Mathematics and Computation}, 2020, Pages 1-31. 
-\item A three-phase fundamental diagram from three-dimensional traffic data, Maria Laura Delle Monachea, Karen Chi, Yong Chen, Paola Goatinc, Ke Han, Jing-Mei Qiu, Benedetto Piccoli, Axioms, v10 (2021), Pages 17.
-\item A semi-Lagrangian discontinuous Galerkin (DG) - local DG method for solving convection-diffusion-reaction equations, M. Ding$^s$, X. Cai$^p$, W. Guo and J.-M. Qiu, {\bf Journal of Computational Physics}, v409(2020), Pages 109-295.  
-\item Stability-enhanced AP IMEX-LDG schemes for linear kinetic transport equations under a diffusive scaling, Z. Peng, Y. Cheng, J.-M. Qiu, and F. Li,  {\bf Journal of Computational Physics}, v415 (2020), Pages 109-485.  
-\item Optimal convergence and superconvergence of semi-Lagrangian discontinuous Galerkin methods for linear convection equations in one space dimension, Y. Yang, X. Cai, and J.-M. Qiu, {\bf Mathematics of Computation}, v89 (2020), Pages 2113-2139. 
-\item A High Order Semi-implicit IMEX WENO Scheme for the all-Mach Isentropic Euler System, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, {\bf Journal of Computational Physics}, v392 (2019), Pages 594-618.
-\item A high order semi-Lagrangian discontinuous Galerkin method for the two-dimensional incompressible Euler equations and the guiding center Vlasov model without operator splitting, X. Cai$^p$, W. Guo and J.-M. Qiu, {\bf Journal of Scientific Computing}, v79(2019), Pages 1111-1134.
-\item 
-Conservative Multi-Dimensional Semi-Lagrangian Finite Difference Scheme: Stability and Applications to the Kinetic and Fluid Simulations, T. Xiong, G. Russo and J.-M. Qiu, {\bf Journal of Scientific Computing}, v79 (2019), Pages 1241 - 1270. 
-\item 
-A high order semi-Lagrangian discontinuous Galerkin method for Vlasov-Poisson simulations without operator splitting, X. Cai$^p$, W. Guo and J.-M. Qiu, {\bf Journal of Computational Physics}, v354 (2018), Pages 529-551.
-\item 
-High Order Multi-dimensional Characteristics Tracing for the Incompressible Euler Equation and the Guiding-center Vlasov Equation, T. Xiong, G. Russo and J.-M. Qiu, {\bf Journal of Scientific Computing}, v77 (2018), pp 263-282. 
-\item  Implicit-Explicit Integral Deferred Correction Methods for Stiff Problems and Applications to Partial Differential Equations, B. Sebastiano, J.-M. Qiu and G. Russo, {\bf SIAM Journal of Scientific Computing},  v40 (2018), Pages A787-A816.
+61\. A High Order Semi-Lagrangian Finite Difference Method for nonlinear Vlasov and BGK Models, L. Li, J.-M. Qiu and G. Russo, Communications on Applied Mathematics and Computation, (2022), Pages 1-29. 
+
+60\.  A conservative semi-Lagrangian hybrid Hermite WENO scheme for linear transport equations and the nonlinear Vlasov-Poisson system, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu,  SIAM Journal of Scientific Computing, v43 (2021), Pages 3580-3606.
+
+59\.  An Eulerian-Lagrangian discontinuous Galerkin method for transport problems and its application to nonlinear dynamics , X. Cai, J.-M. Qiu, and Yang Yang,   Journal of Computational Physics, 2021. 
+
+58\. High Order Semi-Lagrangian Discontinuous Galerkin Method Coupled with Runge-Kutta Exponential Integrators for Nonlinear Vlasov Dynamics, X. Cai, S. Boscarino, and J.-M. Qiu, Journal of Computational Physics, v427 (2021), Pages 110036. 
+
+57\. Stability-enhanced AP IMEX1-LDG method: energy-based stability and rigorous AP property, Z. Peng, Y. Cheng, J.-M. Qiu, and F. Li, SIAM Journal on Numerical Analysis, v59 (2021), Pages 925-954. 
+
+56\. Adaptive Order WENO Reconstructions for the Semi-Lagrangian Finite Difference Scheme for advection problem, J. Chen, X. Cai, J. Qiu, J.-M. Qiu, Communications in Computational Physics, v30(2021), Pages 67-96.
+
+55\. Comparison of semi-Lagrangian discontinuous Galerkin schemes for linear and nonlinear transport simulations, X. Cai, W. Guo and J.-M. Qiu, Communications on Applied Mathematics and Computation, 2020, Pages 1-31. 
+
+54\. A three-phase fundamental diagram from three-dimensional traffic data, Maria Laura Delle Monachea, Karen Chi, Yong Chen, Paola Goatinc, Ke Han, Jing-Mei Qiu, Benedetto Piccoli, Axioms, v10 (2021), Pages 17.
+
+53\. A semi-Lagrangian discontinuous Galerkin (DG) - local DG method for solving convection-diffusion-reaction equations, M. Ding$^s$, X. Cai$^p$, W. Guo and J.-M. Qiu, Journal of Computational Physics, v409(2020), Pages 109-295.  
+
+52\. Stability-enhanced AP IMEX-LDG schemes for linear kinetic transport equations under a diffusive scaling, Z. Peng, Y. Cheng, J.-M. Qiu, and F. Li, Journal of Computational Physics, v415 (2020), Pages 109-485.  
+
+51\. Optimal convergence and superconvergence of semi-Lagrangian discontinuous Galerkin methods for linear convection equations in one space dimension, Y. Yang, X. Cai, and J.-M. Qiu, Mathematics of Computation, v89 (2020), Pages 2113-2139. 
+
+50\. A High Order Semi-implicit IMEX WENO Scheme for the all-Mach Isentropic Euler System, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, Journal of Computational Physics, v392 (2019), Pages 594-618.
+
+49\. A high order semi-Lagrangian discontinuous Galerkin method for the two-dimensional incompressible Euler equations and the guiding center Vlasov model without operator splitting, X. Cai$^p$, W. Guo and J.-M. Qiu, Journal of Scientific Computing, v79(2019), Pages 1111-1134.
+
+48\.
+Conservative Multi-Dimensional Semi-Lagrangian Finite Difference Scheme: Stability and Applications to the Kinetic and Fluid Simulations, T. Xiong, G. Russo and J.-M. Qiu, Journal of Scientific Computing, v79 (2019), Pages 1241 - 1270. 
+
+47\.
+A high order semi-Lagrangian discontinuous Galerkin method for Vlasov-Poisson simulations without operator splitting, X. Cai$^p$, W. Guo and J.-M. Qiu, Journal of Computational Physics, v354 (2018), Pages 529-551.
+
+46\.
+High Order Multi-dimensional Characteristics Tracing for the Incompressible Euler Equation and the Guiding-center Vlasov Equation, T. Xiong, G. Russo and J.-M. Qiu, Journal of Scientific Computing, v77 (2018), pp 263-282. 
+
+45\. Implicit-Explicit Integral Deferred Correction Methods for Stiff Problems and Applications to Partial Differential Equations, B. Sebastiano, J.-M. Qiu and G. Russo, SIAM Journal of Scientific Computing,  v40 (2018), Pages A787-A816.
+
 44\. Finite volume HWENO schemes for nonconvex conservation laws, X. Cai$^p$, J. Qiu and J.-M. Qiu, Journal of Scientific Computing, v75 (2018), Pages 65-82.
 
 43\. A high order conservative semi-Lagrangian discontinuous Galerkin method for two-dimensional transport simulations, X. Cai$^p$, W. Guo and J.-M. Qiu, Journal of Scientific Computing, v73 (2017), Pages 514-542. 
