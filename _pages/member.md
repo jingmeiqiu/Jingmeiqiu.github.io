@@ -20,13 +20,13 @@ author_profile: true
 
 ## Past postdoc: 
 
-- Dr. Tao Xiong, Aug.2012-Aug.2015, currently Professor in Xiamen University.
-- Dr. Xiaofeng Cai, July 2016- July 2021, currently Associate Professor at Beijing Normal University.
 - Dr. Xue Hong, Sep.2021-Nov.2021, currently postdoc at INRIA, University of Rennes, France.
+- Dr. Xiaofeng Cai, July 2016- July 2021, currently Associate Professor at Beijing Normal University.
+- Dr. Tao Xiong, Aug.2012-Aug.2015, currently Professor in Xiamen University.
 
 ## Past visiting students:
 
+- Dr. Xiaofeng Cai, Jan.2015-June.2016, from Xiamen University.
 - Dr. Hongqiang Zhu, Aug.2014-Aug.2015, from Nanjing University of Posts and Telecommunications.
 - Dr. Tan Ren, Aug.2012-Aug.2014, from Beijing Institute of Technology.
-- Dr. Xiaofeng Cai, Jan.2015-June.2016, from Xiamen University.
 
