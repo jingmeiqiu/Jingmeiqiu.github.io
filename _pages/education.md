@@ -1,4 +1,12 @@
 
+---
+layout: archive
+title: "Education"
+permalink: /education/
+author_profile: true
+---
+
+
 Education
 ======
 - B.S. University of Science and Technology of China, 2003.
