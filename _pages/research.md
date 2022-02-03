@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests include high order structure-preserving numerical methods for fluid, kinetic and multi-scale models. 
+My research interests include high order structure-preserving numerical methods for fluid, kinetic and multi-scale models. Specific topics include: 
 
 - Low rank high order tensor approach for multi-scale kinetic simulations with local conservation and structure preservation. 
 - Eulerian-Lagrangian high order Runge-Kutta discontinous Galerkin methods.
