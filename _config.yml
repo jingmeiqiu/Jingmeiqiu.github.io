@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juntao Huang"
+  name             : "Jing-Mei Qiu"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor at Michigan State University"
-  location         : "East Lansing, Michigan"
+  bio              : "Professor at University of Delaware"
+  location         : "Newark, DE, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en"
-  email            : "huangj75@msu.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ"
+  email            : "jingqiu@udel.edu"
   researchgate     : "https://www.researchgate.net/profile/Juntao_Huang2"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JuntaoHuang"
+  github           : "jingmeiqiu"
   google_plus      :
   keybase          :
   instagram        :
