@@ -4,11 +4,11 @@ main:
   - title: "Short Bio"
     url: /education/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research group"
-    url: /group/   
+    url: /group/ 
+    
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
