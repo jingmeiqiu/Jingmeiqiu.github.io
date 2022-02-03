@@ -13,15 +13,15 @@ author_profile: true
 
 2\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu, submitted. 
 
-3.\ High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, submitted. 
+3\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, submitted. 
 
-4.\ Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu, submitted. 
+4\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu, submitted. 
 
-5.\ A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu, submitted.
+5\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu, submitted.
 
-6.\ A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, submitted. 
+6\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, submitted. 
 
-7.\ Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding and J.-M. Qiu, SIAM Multiscale Modeling and Simulation, in revision.  
+7\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding and J.-M. Qiu, SIAM Multiscale Modeling and Simulation, in revision.  
 
 ## Publications in Refereed Journals
 
