@@ -47,15 +47,23 @@ A high order semi-Lagrangian discontinuous Galerkin method for Vlasov-Poisson si
 \item 
 High Order Multi-dimensional Characteristics Tracing for the Incompressible Euler Equation and the Guiding-center Vlasov Equation, T. Xiong, G. Russo and J.-M. Qiu, {\bf Journal of Scientific Computing}, v77 (2018), pp 263-282. 
 \item  Implicit-Explicit Integral Deferred Correction Methods for Stiff Problems and Applications to Partial Differential Equations, B. Sebastiano, J.-M. Qiu and G. Russo, {\bf SIAM Journal of Scientific Computing},  v40 (2018), Pages A787-A816.
-\item Finite volume HWENO schemes for nonconvex conservation laws, X. Cai$^p$, J. Qiu and J.-M. Qiu, {\bf Journal of Scientific Computing}, v75 (2018), Pages 65-82.
-\item A high order conservative semi-Lagrangian discontinuous Galerkin method for two-dimensional transport simulations, X. Cai$^p$, W. Guo and J.-M. Qiu, {\bf Journal of Scientific Computing}, v73 (2017), Pages 514-542. 
-\item An h-adaptive RKDG method for the two-dimensional incompressible Euler equations and the guiding center Vlasov model, H. Zhu, J. Qiu and J.-M. Qiu, {\bf Journal of Scientific Computing}, v73 (2017), Pages 1316-1337.
-\item High Order Hierarchical Asymptotic Preserving Nodal Discontinuous Galerkin IMEX Schemes For The BGK Equation, T. Xiong$^p$ and J.-M. Qiu, {\bf Journal of Computational Physics}, v336 (2017), Pages 164-191. 
-\item A High Order Multi-Dimensional Characteristic Tracing Strategy for the Vlasov-Poisson System, J.-M. Qiu and G. Russo, {\bf Journal of Scientific Computing}, v71 (2017), Pages 414-434.
-\item An $h$-adaptive RKDG method for the Vlasov-Poisson system, H. Zhu, J. Qiu and J.-M. Qiu, {\bf Journal of Scientific Computing},  v69 (2016), Pages 1346-1365.
-\item High Order Mass Conservative Semi-Lagrangian Methods for Transport Problems, J.-M. Qiu, {\bf Handbook of Numerical Methods for Hyperbolic Problems}: Part A, Chapter 16.
-\item Numerical methods for hyperbolic nets and networks, S. Canic, M.L. Delle Monache, B. Piccoli, J.-M. Qiu and J. Tambaca, {\bf Handbook of Numerical Methods for Hyperbolic Problems}.  
-\item An Adaptive WENO Collocation Method for Differential Equations with Random Coefficients, W. Guo$^s$, G. Lin, A. Christlieb and J.-M. Qiu, MDPI, {\bf Special Issue "New Trends in Applications of Orthogonal Polynomials and Special Functions"}, v4(2016), Pages 29. 
+44\. Finite volume HWENO schemes for nonconvex conservation laws, X. Cai$^p$, J. Qiu and J.-M. Qiu, Journal of Scientific Computing, v75 (2018), Pages 65-82.
+
+43\. A high order conservative semi-Lagrangian discontinuous Galerkin method for two-dimensional transport simulations, X. Cai$^p$, W. Guo and J.-M. Qiu, Journal of Scientific Computing, v73 (2017), Pages 514-542. 
+
+42\. An h-adaptive RKDG method for the two-dimensional incompressible Euler equations and the guiding center Vlasov model, H. Zhu, J. Qiu and J.-M. Qiu, Journal of Scientific Computing, v73 (2017), Pages 1316-1337.
+
+41\. High Order Hierarchical Asymptotic Preserving Nodal Discontinuous Galerkin IMEX Schemes For The BGK Equation, T. Xiong$^p$ and J.-M. Qiu, Journal of Computational Physics, v336 (2017), Pages 164-191. 
+
+40\. A High Order Multi-Dimensional Characteristic Tracing Strategy for the Vlasov-Poisson System, J.-M. Qiu and G. Russo, Journal of Scientific Computing, v71 (2017), Pages 414-434.
+
+39\. An h-adaptive RKDG method for the Vlasov-Poisson system, H. Zhu, J. Qiu and J.-M. Qiu, Journal of Scientific Computing,  v69 (2016), Pages 1346-1365.
+
+38\. High Order Mass Conservative Semi-Lagrangian Methods for Transport Problems, J.-M. Qiu, Handbook of Numerical Methods for Hyperbolic Problems: Part A, Chapter 16.
+
+37\. Numerical methods for hyperbolic nets and networks, S. Canic, M.L. Delle Monache, B. Piccoli, J.-M. Qiu and J. Tambaca, Handbook of Numerical Methods for Hyperbolic Problems.  
+
+36\.  An Adaptive WENO Collocation Method for Differential Equations with Random Coefficients, W. Guo$^s$, G. Lin, A. Christlieb and J.-M. Qiu, MDPI, Special Issue "New Trends in Applications of Orthogonal Polynomials and Special Functions", v4(2016), Pages 29. 
 
 35\. A conservative semi-Lagrangian HWENO method for the Vlasov equation, X. Cai$^s$, J. Qiu and J.-M. Qiu,  Journal of Computational Physics, v323 (2016), Pages 95-114.
 
@@ -65,8 +73,7 @@ High Order Multi-dimensional Characteristics Tracing for the Incompressible Eule
 
 32\. Error Estimate of Integral Deferred Correction Implicit Runge-Kutta method for Stiff Problems, S. Boscarino and J.-M. Qiu, Mathematical Modelling and Numerical Analysis, v50(2016), Pages 1137-1166.
 
-31.\
-High Order Maximum Principle Preserving Finite Volume Method for Convection Dominated Problems, P. Yang$^s$, T. Xiong$^p$, J.-M. Qiu and Z. Xu, Journal of Scientific Computing, v67(2016), Pages 795-820.
+31\. High Order Maximum Principle Preserving Finite Volume Method for Convection Dominated Problems, P. Yang$^s$, T. Xiong$^p$, J.-M. Qiu and Z. Xu, Journal of Scientific Computing, v67(2016), Pages 795-820.
 
 30\. High Order Asymptotic Preserving Nodal Discontinuous Galerkin IMEX Schemes for the BGK Equation, T. Xiong$^p$, J. Jang, F. Li and J.-M. Qiu, Journal of Computational Physics, v284 (2015), Pages 70-94.
 
