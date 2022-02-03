@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-8.\ A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, submitted.
+8\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, submitted.
 
 7\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. 
 
