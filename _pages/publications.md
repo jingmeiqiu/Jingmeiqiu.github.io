@@ -9,17 +9,17 @@ author_profile: true
 
 ## Preprints
 
-8\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, submitted.
+8\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu.
 
-7\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. 
+7\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu. 
 
-6\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu, submitted. 
+6\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu. 
 
-5\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, submitted. 
+5\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong. 
 
-4\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu, submitted. 
+4\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu. 
 
-3\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu, submitted.
+3\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu.
 
 2\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, in revision. 
 
