@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 - Spring 2022: Math 353: Engineering Mathematics III  
+  - Lecture on [root finding](https://jingmeiqiu.github.io/files/MATH353_root_nonlinear.pdf)
 
 ## Past teaching at Delaware
 
