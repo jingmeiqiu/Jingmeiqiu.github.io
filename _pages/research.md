@@ -13,6 +13,14 @@ My research interests include high order structure-preserving numerical methods 
 - Asymptotic preserving numerical methods for multi-scale PDEs. 
 - High order methods for temporal multi-scale problems: implicit-explicit Runge-Kutta method and integral deferred correction method for singular perturbation problems.
 
+The application areas include:
+
+- Computational fluid dynamics.
+- Kinetic simulations and applications to Plasma physics.
+- Astrophysics.
+- Climate modeling and simulations.
+- Traffic flow simulations. 
+
 We would like to acknowledge the continuous funding support from National Science Foundation and Air Force Office of Scientific Research since 2008. 
 
 
