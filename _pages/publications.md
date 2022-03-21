@@ -9,19 +9,19 @@ author_profile: true
 
 ## Preprints
 
-69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu.
+69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, Computer Methods in Applied Mechanics and Engineering, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, in revision.
 
-68\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu. 
+68\. A conservative low rank tensor method for the Vlasov dynamics, SIAM Journal of Scientific Computing, W. Guo  and J.-M. Qiu, submitted. 
 
-67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu. 
+67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, SIAM Journal of Scientific Computing, X. Cai and J.-M. Qiu, accepted. 
 
-66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong. 
+66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, accepted. 
 
-65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu. 
+65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu, preprint. 
 
-64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, X. Hong and J.-M. Qiu.
+64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, accepted.
 
-63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, in revision. 
+63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. 
 
 62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, in revision.  
 
