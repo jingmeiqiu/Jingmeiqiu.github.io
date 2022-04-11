@@ -12,7 +12,7 @@ author_profile: true
 
 69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, Computer Methods in Applied Mechanics and Engineering, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, acceptted.
 
-68\. A conservative low rank tensor method for the Vlasov dynamics, SIAM Journal of Scientific Computing, W. Guo  and J.-M. Qiu, submitted. 
+68\. A conservative low rank tensor method for the Vlasov dynamics, SIAM Journal of Scientific Computing, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2201.10397)
 
 67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, SIAM Journal of Scientific Computing, X. Cai and J.-M. Qiu, accepted. 
 
