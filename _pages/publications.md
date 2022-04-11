@@ -8,8 +8,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+70\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2204.03682)
 
-69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, Computer Methods in Applied Mechanics and Engineering, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, in revision.
+69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, Computer Methods in Applied Mechanics and Engineering, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, acceptted.
 
 68\. A conservative low rank tensor method for the Vlasov dynamics, SIAM Journal of Scientific Computing, W. Guo  and J.-M. Qiu, submitted. 
 
