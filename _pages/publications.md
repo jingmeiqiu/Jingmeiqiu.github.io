@@ -22,7 +22,7 @@ author_profile: true
 
 64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, accepted.
 
-63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. 
+63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2106.08834)
 
 62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, in revision.  
 
