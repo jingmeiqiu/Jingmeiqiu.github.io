@@ -8,6 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+
 70\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2204.03682)
 
 69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, Computer Methods in Applied Mechanics and Engineering, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, acceptted.
@@ -24,7 +25,7 @@ author_profile: true
 
 63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2106.08834)
 
-62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, in revision.  
+62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, accepted.  
 
 ## Publications in Refereed Journals
 
