@@ -29,3 +29,7 @@ Award
 - Award for Excellence in Research, Scholarship or Creative Activity, University of Houston, 2017.
 - Air Force Office of Scientific Research, Young Investigator Award, 2012-2015.
 - Ostrach Fellowship, Division of Applied Mathematics, Brown University, 2006.
+
+Editorial Board
+======
+Associate Editor, CSIAM Transactions on Applied Mathematics (CSIAM-AM), July 2022 - July 2025.
