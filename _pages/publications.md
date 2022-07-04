@@ -8,8 +8,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
 
-71\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, byJan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
+71\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, by Jan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
 
 70\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2204.03682)
 
