@@ -8,6 +8,8 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+73\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, submitted. 
+
 72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
 
 71\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, by Jan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
