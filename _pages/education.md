@@ -32,4 +32,5 @@ Award
 
 Editorial Board
 ======
-Associate Editor, CSIAM Transactions on Applied Mathematics (CSIAM-AM), July 2022 - July 2025.
+- Associate Editor, CSIAM Transactions on Applied Mathematics (CSIAM-AM), July 2022 - July 2025.
+- Associate Editor, Computational Mathematics for Engineering and Sciences (CMES), 2022-2024. 
