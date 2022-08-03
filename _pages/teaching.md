@@ -4,12 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-- Spring 2022: Math 353: Engineering Mathematics III  
-  - Lecture on [root finding](https://jingmeiqiu.github.io/files/MATH353_root_nonlinear.pdf)
+Fall 2022: Math 342: Differential Equations with Linear Algebra II
 
 ## Past teaching at Delaware
-
+- Spring 2022: Math 353: Engineering Mathematics III  
 - Spring 2020 - Fall 2021: Math 342: Differential Equations with Linear Algebra II
 - Fall, 2019: Math 817: Introduction to Numerical Methods for Partial Differential Equations
 - Fall, 2019: Math 342: Differential Equations with Linear Algebra II
