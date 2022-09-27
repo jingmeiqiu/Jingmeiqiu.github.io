@@ -24,15 +24,15 @@ author_profile: true
 
 67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, SIAM Journal of Scientific Computing, X. Cai and J.-M. Qiu, accepted. [arXiv](https://arxiv.org/abs/2002.02930)
 
-66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, accepted. 
+66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, SIAM Journal on Scientific computing, 2022. [link](https://epubs.siam.org/doi/abs/10.1137/21M1424433)
 
 65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu, preprint. 
 
-64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, accepted.
+64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, Journal of Computational Physics, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0021999122002224)
 
-63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2106.08834)
+63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. [link](https://www.sciencedirect.com/science/article/pii/S0021999122001516)
 
-62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, accepted.  
+62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, accepted. [arXiv](https://arxiv.org/abs/2105.02974) 
 
 ## Publications in Refereed Journals
 
@@ -40,7 +40,7 @@ author_profile: true
 
 60\.  A conservative semi-Lagrangian hybrid Hermite WENO scheme for linear transport equations and the nonlinear Vlasov-Poisson system, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu,  SIAM Journal of Scientific Computing, v43 (2021), Pages 3580-3606.
 
-59\.  An Eulerian-Lagrangian discontinuous Galerkin method for transport problems and its application to nonlinear dynamics , X. Cai, J.-M. Qiu, and Yang Yang,   Journal of Computational Physics, 2021. 
+59\.  An Eulerian-Lagrangian discontinuous Galerkin method for transport problems and its application to nonlinear dynamics , X. Cai, J.-M. Qiu, and Yang Yang,   Journal of Computational Physics, 2021. [link](https://www.sciencedirect.com/science/article/pii/S0021999121002874)
 
 58\. High Order Semi-Lagrangian Discontinuous Galerkin Method Coupled with Runge-Kutta Exponential Integrators for Nonlinear Vlasov Dynamics, X. Cai, S. Boscarino, and J.-M. Qiu, Journal of Computational Physics, v427 (2021), Pages 110036. 
 
