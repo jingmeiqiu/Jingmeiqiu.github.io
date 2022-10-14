@@ -8,6 +8,8 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+75\. A Local Macroscopic Conservative (LoMaC) low rank tensor method with the discontinuous Galerkin method for the Vlasov dynamics, W. Guo, J. Ema, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2210.07208)
+
 74\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
 
 73\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.13736) 
