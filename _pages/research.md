@@ -21,6 +21,4 @@ The application areas include:
 - Climate modeling and simulations.
 - Traffic flow simulations. 
 
-We would like to acknowledge the continuous funding support from National Science Foundation and Air Force Office of Scientific Research since 2008. 
-
 
