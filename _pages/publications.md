@@ -8,6 +8,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+
+78\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
+
 77\. Scalable Riemann Solvers with the Discontinuous Galerkin Method for Hyperbolic Network Simulation, A. Hamilton, J.-M. Qiu and H. Zhang, the Platform for Advanced Scientific Computing (PASC) Conference paper, Davos, Switzerland, 2023.  
 
 76\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
