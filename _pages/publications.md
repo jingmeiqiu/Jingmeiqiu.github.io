@@ -8,6 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+79\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, [arXiv](https://arxiv.org/abs/2404.03119)
 
 78\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
 
