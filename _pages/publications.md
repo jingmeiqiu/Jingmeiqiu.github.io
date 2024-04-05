@@ -20,7 +20,7 @@ author_profile: true
 
 74\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
 
-73\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.13736) 
+73\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, accepted. [arXiv](https://arxiv.org/abs/2207.13736) 
 
 72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
 
@@ -36,7 +36,7 @@ author_profile: true
 
 66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, SIAM Journal on Scientific computing, 2022. [link](https://epubs.siam.org/doi/abs/10.1137/21M1424433)
 
-65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding and J.-M. Qiu, preprint. 
+65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, [arXiv](https://arxiv.org/abs/2105.02421) 
 
 64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, Journal of Computational Physics, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0021999122002224)
 
