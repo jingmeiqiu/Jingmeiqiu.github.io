@@ -8,6 +8,10 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
+
+80\. Conservative Semi-Lagrangian Methods for Kinetic Equations, Seung-Yeon Cho, Maria Groppi, Jing-Mei Qiu, Giovanni Russo and Seok-Baae Yun
+
 79\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, [arXiv](https://arxiv.org/abs/2404.03119)
 
 78\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
