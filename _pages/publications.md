@@ -8,6 +8,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+
+82\. High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
+
 81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
 
 80\. Conservative Semi-Lagrangian Methods for Kinetic Equations, Seung-Yeon Cho, Maria Groppi, Jing-Mei Qiu, Giovanni Russo and Seok-Baae Yun
