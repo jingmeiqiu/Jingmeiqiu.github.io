@@ -8,6 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+83\. Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
 
 82\. High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
 
