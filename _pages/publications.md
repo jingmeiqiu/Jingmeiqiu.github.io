@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-84\. A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, [arXiv](http://arxiv.org/abs/2405.09835)
+- A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, [arXiv](http://arxiv.org/abs/2405.09835)
 
 83\. Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
 
