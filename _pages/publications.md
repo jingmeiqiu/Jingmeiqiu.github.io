@@ -43,7 +43,7 @@ author_profile: true
 
 68\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, SIAM Journal of Scientific Computing, v46 (2024) [arXiv](https://arxiv.org/abs/2201.10397)
 
-67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, SIAM Journal of Scientific Computing, X. Cai and J.-M. Qiu, accepted. [arXiv](https://arxiv.org/abs/2002.02930)
+67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu, SIAM Journal of Scientific Computing, v44 (2022). [arXiv](https://arxiv.org/abs/2002.02930)
 
 66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, SIAM Journal on Scientific computing, 2022. [link](https://epubs.siam.org/doi/abs/10.1137/21M1424433)
 
