@@ -17,17 +17,15 @@ author_profile: true
 
 81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
 
-80\. Conservative Semi-Lagrangian Methods for Kinetic Equations, Seung-Yeon Cho, Maria Groppi, Jing-Mei Qiu, Giovanni Russo and Seok-Baae Yun
 
 79\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, [arXiv](https://arxiv.org/abs/2404.03119)
 
 78\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
 
-77\. Scalable Riemann Solvers with the Discontinuous Galerkin Method for Hyperbolic Network Simulation, A. Hamilton, J.-M. Qiu and H. Zhang, the Platform for Advanced Scientific Computing (PASC) Conference paper, Davos, Switzerland, 2023.  
+
 
 76\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
 
-75\. A Local Macroscopic Conservative (LoMaC) low rank tensor method with the discontinuous Galerkin method for the Vlasov dynamics, W. Guo, J. Ema, J.-M. Qiu, Communications on Applied Mathematics and Computation, v6 (2024) [arXiv](https://arxiv.org/abs/2210.07208)
 
 74\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
 
@@ -35,29 +33,45 @@ author_profile: true
 
 72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
 
-71\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, by Jan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
 
-70\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, Journal of Computational Physics, v470 (2022). [arXiv](https://arxiv.org/abs/2204.03682)
 
-69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Computer Methods in Applied Mechanics and Engineering, v395, (2022).
 
-68\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, SIAM Journal of Scientific Computing, v46 (2024) [arXiv](https://arxiv.org/abs/2201.10397)
 
-67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu, SIAM Journal of Scientific Computing, v44 (2022). [arXiv](https://arxiv.org/abs/2002.02930)
 
-66\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, SIAM Journal on Scientific computing, 2022. [link](https://epubs.siam.org/doi/abs/10.1137/21M1424433)
+
+
+
+
+
 
 65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, [arXiv](https://arxiv.org/abs/2105.02421) 
 
-64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, Journal of Computational Physics, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0021999122002224)
 
 
 
+## Journal/Conference/Book Chapter Publications
 
+73\. Conservative Semi-Lagrangian Methods for Kinetic Equations, Seung-Yeon Cho, Maria Groppi, Jing-Mei Qiu, Giovanni Russo and Seok-Baae Yun, Active Particles, Vol 4 (2024). 
 
-## Publications in Refereed Journals
+72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method with the discontinuous Galerkin method for the Vlasov dynamics, W. Guo, J. Ema, J.-M. Qiu, Communications on Applied Mathematics and Computation, v6 (2024) [arXiv](https://arxiv.org/abs/2210.07208)
 
-63\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, v21 (2023). [arXiv](https://arxiv.org/abs/2105.02974) 
+71\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, SIAM Journal of Scientific Computing, v46 (2024) [arXiv](https://arxiv.org/abs/2201.10397)
+
+70\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, by Jan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
+
+69\. Scalable Riemann Solvers with the Discontinuous Galerkin Method for Hyperbolic Network Simulation, A. Hamilton, J.-M. Qiu and H. Zhang, the Platform for Advanced Scientific Computing (PASC) Conference paper, Davos, Switzerland, 2023.  
+
+68\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, v21 (2023). [arXiv](https://arxiv.org/abs/2105.02974) 
+
+67\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, Journal of Computational Physics, v470 (2022). [arXiv](https://arxiv.org/abs/2204.03682)
+
+66\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Computer Methods in Applied Mechanics and Engineering, v395, (2022).
+
+65\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, X. Cai and J.-M. Qiu, SIAM Journal of Scientific Computing, v44 (2022). [arXiv](https://arxiv.org/abs/2002.02930)
+
+64\. High Order Semi-implicit WENO Schemes for All Mach Full Euler System of Gas Dynamics, SIAM Journal of Scientific Computing, B. Sebastiano, J.-M. Qiu, G. Russo, T. Xiong, SIAM Journal on Scientific computing, 2022. [link](https://epubs.siam.org/doi/abs/10.1137/21M1424433)
+
+63\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, Journal of Computational Physics, v464 (2022). [link](https://www.sciencedirect.com/science/article/pii/S0021999122002224)
 
 62\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, v458 (2022). [link](https://www.sciencedirect.com/science/article/pii/S0021999122001516)
 
