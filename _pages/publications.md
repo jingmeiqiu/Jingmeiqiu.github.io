@@ -9,47 +9,33 @@ author_profile: true
 
 ## Preprints
 
+
+
+- Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
+
+- High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
+
 - A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, [arXiv](http://arxiv.org/abs/2405.09835)
 
-83\. Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
+- Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
 
-82\. High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
+- Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, [arXiv](https://arxiv.org/abs/2404.03119)
 
-81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
+- Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
 
+- Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
 
-79\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, [arXiv](https://arxiv.org/abs/2404.03119)
+- Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
 
-78\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
+- A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
 
-
-
-76\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
-
-
-74\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
-
-73\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, accepted. [arXiv](https://arxiv.org/abs/2207.13736) 
-
-72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
-
-
-
-
-
-
-
-
-
-
-
-
-65\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, [arXiv](https://arxiv.org/abs/2105.02421) 
+- Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, [arXiv](https://arxiv.org/abs/2105.02421) 
 
 
 
 
 ## Journal/Conference/Book Chapter Publications
+74\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, accepted. [arXiv](https://arxiv.org/abs/2207.13736) 
 
 73\. Conservative Semi-Lagrangian Methods for Kinetic Equations, Seung-Yeon Cho, Maria Groppi, Jing-Mei Qiu, Giovanni Russo and Seok-Baae Yun, Active Particles, Vol 4 (2024). 
 
