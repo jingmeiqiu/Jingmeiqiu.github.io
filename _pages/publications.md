@@ -51,11 +51,15 @@ author_profile: true
 
 64\. A Generalized Eulerian-Lagrangian Discontinuous Galerkin Method for Transport Problems, Journal of Computational Physics, X. Hong and J.-M. Qiu, Journal of Computational Physics, 2022. [link](https://www.sciencedirect.com/science/article/pii/S0021999122002224)
 
-63\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. [link](https://www.sciencedirect.com/science/article/pii/S0021999122001516)
 
-62\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, accepted. [arXiv](https://arxiv.org/abs/2105.02974) 
+
+
 
 ## Publications in Refereed Journals
+
+63\. Accuracy and stability analysis of the Semi-Lagrangian method for stiff hyperbolic relaxation systems and kinetic BGK model, M. Ding, J.-M. Qiu and R.-W. Shu, SIAM Multiscale Modeling and Simulation, v21 (2023) . [arXiv](https://arxiv.org/abs/2105.02974) 
+
+62\. A Low Rank Tensor Representation of Linear Transport and Nonlinear Vlasov Solutions and Their Associated Flow Maps, W. Guo  and J.-M. Qiu, Journal of Computational Physics, accepted. [link](https://www.sciencedirect.com/science/article/pii/S0021999122001516)
 
 61\. A High Order Semi-Lagrangian Finite Difference Method for nonlinear Vlasov and BGK Models, L. Li, J.-M. Qiu and G. Russo, Communications on Applied Mathematics and Computation, (2022), Pages 1-29. 
 
