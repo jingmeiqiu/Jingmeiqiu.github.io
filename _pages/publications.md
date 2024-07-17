@@ -37,11 +37,11 @@ author_profile: true
 
 71\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, by Jan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
 
-70\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, Journal of Computational Physics. [arXiv](https://arxiv.org/abs/2204.03682)
+70\. An Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for solving convection and convection-diffusion equations, J. Nakao, J. Chen, J.-M. Qiu, Journal of Computational Physics, v470 (2022). [arXiv](https://arxiv.org/abs/2204.03682)
 
-69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, Computer Methods in Applied Mechanics and Engineering, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, acceptted.
+69\. A fourth-order conservative semi-Lagrangian finite volume WENO scheme without operator splitting for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Computer Methods in Applied Mechanics and Engineering, v395, (2022).
 
-68\. A conservative low rank tensor method for the Vlasov dynamics, SIAM Journal of Scientific Computing, W. Guo  and J.-M. Qiu, accepted. [arXiv](https://arxiv.org/abs/2201.10397)
+68\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, SIAM Journal of Scientific Computing, v46 (2024) [arXiv](https://arxiv.org/abs/2201.10397)
 
 67\. Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for transport simulations on unstructured meshes, SIAM Journal of Scientific Computing, X. Cai and J.-M. Qiu, accepted. [arXiv](https://arxiv.org/abs/2002.02930)
 
