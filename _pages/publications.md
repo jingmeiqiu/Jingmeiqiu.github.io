@@ -19,8 +19,6 @@ author_profile: true
 
 - Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
 
-- Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, [arXiv](https://arxiv.org/abs/2404.03119)
-
 - Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
 
 - Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
@@ -33,6 +31,8 @@ author_profile: true
 
 
 ## Journal/Conference/Book Chapter Publications
+76\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2404.03119)
+
 75\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, Advances in Computational Science and Engineering, accepted, [arXiv](https://arxiv.org/abs/2105.02421) 
 
 74\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, accepted. [arXiv](https://arxiv.org/abs/2207.13736) 
