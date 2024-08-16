@@ -21,7 +21,7 @@ author_profile: true
 ## Past Ph.D. students:
 
 - Joseph Nakao (2023). First job: Assistant Professor in Swarthmore College. 
-- Jiajie Chen (2022). First job: postdoc in University of Pennsylvnia. 
+- Jiajie Chen (2022). First job: application developer in University of Pennsylvnia. 
 - Dr. Linjin Li (2021). First job: Temporary Assistant Professor at University of Delaware.
 - Dr. Mingchang Ding (2020). First job: postdoc in Computational Mathematics Science and Engineering, Michigan State University.
 - Dr. Wei Guo (2014). First job: postdoc in Department of Mathematics, Michigan State University.
