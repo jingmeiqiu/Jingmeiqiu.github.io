@@ -22,6 +22,7 @@ Professional Experience
 - Associate Professor, Department of Mathematics, University of Houston, 2014-2017.
 - Associate Professor, Department of Mathematical Sciences, University of Delaware, 2017-2019.
 - Professor, Department of Mathematical Sciences, University of Delaware, 2019-present.
+- Unidel Professor, Department of Mathematical Sciences, University of Delaware, 2024-present.
 
 Award
 ======
