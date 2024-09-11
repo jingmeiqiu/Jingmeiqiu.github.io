@@ -104,7 +104,7 @@ High Order Multi-dimensional Characteristics Tracing for the Incompressible Eule
 
 42\. An h-adaptive RKDG method for the two-dimensional incompressible Euler equations and the guiding center Vlasov model, H. Zhu, J. Qiu and J.-M. Qiu, Journal of Scientific Computing, v73 (2017), Pages 1316-1337.
 
-41\. High Order Hierarchical Asymptotic Preserving Nodal Discontinuous Galerkin IMEX Schemes For The BGK Equation, T. Xiong$^p$ and J.-M. Qiu, Journal of Computational Physics, v336 (2017), Pages 164-191. 
+41\. A hierarchical uniformly high order DG-IMEX scheme for the 1D BGK equation, T. Xiong$^p$ and J.-M. Qiu, Journal of Computational Physics, v336 (2017), Pages 164-191. 
 
 40\. A High Order Multi-Dimensional Characteristic Tracing Strategy for the Vlasov-Poisson System, J.-M. Qiu and G. Russo, Journal of Scientific Computing, v71 (2017), Pages 414-434.
 
