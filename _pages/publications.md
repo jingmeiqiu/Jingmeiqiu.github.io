@@ -25,12 +25,11 @@ author_profile: true
 
 - Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
 
-- A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, submitted. [arXiv](https://arxiv.org/abs/2207.00518)
-
-
 
 
 ## Journal/Conference/Book Chapter Publications
+77\.  A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, Journal of Scienctific Computing, to appear. [arXiv](https://arxiv.org/abs/2207.00518)
+
 76\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2404.03119)
 
 75\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, Advances in Computational Science and Engineering, accepted, [arXiv](https://arxiv.org/abs/2105.02421) 
