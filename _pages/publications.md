@@ -40,7 +40,7 @@ author_profile: true
 
 72\. A Local Macroscopic Conservative (LoMaC) low rank tensor method with the discontinuous Galerkin method for the Vlasov dynamics, W. Guo, J. Ema, J.-M. Qiu, Communications on Applied Mathematics and Computation, v6 (2024) [arXiv](https://arxiv.org/abs/2210.07208)
 
-71\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, SIAM Journal of Scientific Computing, v46 (2024) [arXiv](https://arxiv.org/abs/2201.10397)
+71\. A conservative low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, SIAM Journal on Scientific Computing, v46 (2024) [arXiv](https://arxiv.org/abs/2201.10397)
 
 70\. SIAM Book review: Numerical Methods for Conservation Laws From Analysis to Algorithms, by Jan S. Hesthaven. SIAM Computational science and engineering, paperback, 2018. ISBN:  978-1-611975-09-3.
 
