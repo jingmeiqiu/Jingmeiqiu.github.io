@@ -15,8 +15,6 @@ author_profile: true
 
 - High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
 
-- A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, [arXiv](http://arxiv.org/abs/2405.09835)
-
 - Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, [arXiv](http://arxiv.org/abs/2406.01479)
 
 - Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
@@ -28,6 +26,8 @@ author_profile: true
 
 
 ## Journal/Conference/Book Chapter Publications
+78\. A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for nonlinear scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, Journal of Scientific Computing, to appear, [arXiv](http://arxiv.org/abs/2405.09835)
+
 77\.  A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, Journal of Scienctific Computing, to appear. [arXiv](https://arxiv.org/abs/2207.00518)
 
 76\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2404.03119)
