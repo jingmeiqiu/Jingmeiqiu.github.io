@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-
+- Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, [arXiv](https://www.arxiv.org/abs/2410.19662)
 
 - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
 
