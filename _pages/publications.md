@@ -8,6 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+- A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2411.17963)
 
 - Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, [arXiv](https://www.arxiv.org/abs/2410.19662)
 
