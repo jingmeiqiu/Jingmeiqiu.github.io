@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
-- A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer and Katharina Kormann and Jonas Kusch and Ryan G.
+- A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
   McClarren and Jing-Mei Qiu, [arXiv](http://arxiv.org/abs/2412.05912)
 
 - A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2411.17963)
