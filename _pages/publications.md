@@ -21,8 +21,6 @@ author_profile: true
 
 - Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, minor revision, [arXiv](http://arxiv.org/abs/2406.01479)
 
-- Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, [arXiv](https://arxiv.org/abs/2311.15143)
-
 - Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
 
 - Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
@@ -30,6 +28,8 @@ author_profile: true
 
 
 ## Journal/Conference/Book Chapter Publications
+79\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, SIAM Journal of Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2311.15143)
+
 78\. A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for nonlinear scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, Journal of Scientific Computing, to appear, [arXiv](http://arxiv.org/abs/2405.09835)
 
 77\.  A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, Journal of Scienctific Computing, to appear. [arXiv](https://arxiv.org/abs/2207.00518)
