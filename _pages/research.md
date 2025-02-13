@@ -15,9 +15,9 @@ My research interests include:
 
 The application domain areas include:
 
-- Biomedical informatics
 - Plasma Physics and Astrophysics
 - Fluid and gas dynamics
+- Biomedical informatics
 - Climate and traffic flow simulations
 
 
