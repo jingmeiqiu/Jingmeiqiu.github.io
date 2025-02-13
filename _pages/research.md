@@ -15,8 +15,7 @@ My research interests include:
 
 The application domain areas include:
 
-- Fluid Dynamics
-- Gas Dynamics 
+- Fluid and gas dynamics
 - Plasma Physics
 - Astrophysics
 - Climate modeling and simulations
