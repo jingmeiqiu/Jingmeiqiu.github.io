@@ -30,11 +30,11 @@ author_profile: true
 ## Journal/Conference/Book Chapter Publications
 79\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, SIAM Journal of Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2311.15143)
 
-78\. A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for nonlinear scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, Journal of Scientific Computing, to appear, [arXiv](http://arxiv.org/abs/2405.09835)
+78\. A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for nonlinear scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, Journal of Scientific Computing, Volume 102, article number 12, (2025), [arXiv](http://arxiv.org/abs/2405.09835)
 
-77\.  A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, Journal of Scienctific Computing, to appear. [arXiv](https://arxiv.org/abs/2207.00518)
+77\.  A Local Macroscopic Conservative (LoMaC) low rank tensor method for the Vlasov dynamics, W. Guo  and J.-M. Qiu, Journal of Scienctific Computing, Volume 101, article number 61, (2024). [arXiv](https://arxiv.org/abs/2207.00518)
 
-76\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, Journal of Computational Physics, accepted. [arXiv](https://arxiv.org/abs/2404.03119)
+76\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, Journal of Computational Physics, Volume 518, 1 December 2024, 113332. [arXiv](https://arxiv.org/abs/2404.03119)
 
 75\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, Advances in Computational Science and Engineering, accepted, [arXiv](https://arxiv.org/abs/2105.02421) 
 
