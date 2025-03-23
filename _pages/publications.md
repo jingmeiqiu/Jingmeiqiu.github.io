@@ -38,7 +38,7 @@ author_profile: true
 
 75\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, Advances in Computational Science and Engineering, accepted, [arXiv](https://arxiv.org/abs/2105.02421) 
 
-74\. A mass conservative Eulerian-Lagrangian Runge-Kutta discontinuous Galerkin method for wave equations with large time stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, accepted. [arXiv](https://arxiv.org/abs/2207.13736) 
+74\. A Conservative Eulerian–Lagrangian Runge–Kutta Discontinuous Galerkin Method for Linear Hyperbolic System with Large Time Stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, v98, 2024. [arXiv](https://arxiv.org/abs/2207.13736) 
 
 73\. Conservative Semi-Lagrangian Methods for Kinetic Equations, Seung-Yeon Cho, Maria Groppi, Jing-Mei Qiu, Giovanni Russo and Seok-Baae Yun, Active Particles, Vol 4 (2024). 
 
