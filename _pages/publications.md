@@ -11,8 +11,6 @@ author_profile: true
 - A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
   McClarren and Jing-Mei Qiu, [arXiv](http://arxiv.org/abs/2412.05912)
 
-- A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2411.17963)
-
 - Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, [arXiv](https://www.arxiv.org/abs/2410.19662)
 
 - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
@@ -26,6 +24,9 @@ author_profile: true
 
 
 ## Journal/Conference/Book Chapter Publications
+81\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, accepted, [arXiv](https://arxiv.org/abs/2411.17963)
+
+
 80\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, accepted, [arXiv](http://arxiv.org/abs/2406.01479)
 
 79\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, SIAM Journal of Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2311.15143)
