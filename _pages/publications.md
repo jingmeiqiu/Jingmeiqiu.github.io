@@ -19,15 +19,14 @@ author_profile: true
 
 - Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
 
-- Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, submitted. [arXiv](https://arxiv.org/abs/2208.03890)
-
 
 
 ## Journal/Conference/Book Chapter Publications
-81\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, accepted, [arXiv](https://arxiv.org/abs/2411.17963)
+82\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, accepted, [arXiv](https://arxiv.org/abs/2411.17963)
 
+81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, accepted, [arXiv](http://arxiv.org/abs/2406.01479)
 
-80\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, accepted, [arXiv](http://arxiv.org/abs/2406.01479)
+80\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, v99 (2024). [arXiv](https://arxiv.org/abs/2208.03890)
 
 79\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, SIAM Journal of Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2311.15143)
 
