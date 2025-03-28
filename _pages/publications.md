@@ -24,7 +24,7 @@ author_profile: true
 ## Journal/Conference/Book Chapter Publications
 82\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, accepted, [arXiv](https://arxiv.org/abs/2411.17963)
 
-81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, accepted, [arXiv](http://arxiv.org/abs/2406.01479)
+81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, Volume 529, 15 May 2025, [arXiv](http://arxiv.org/abs/2406.01479)
 
 80\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, v99 (2024). [arXiv](https://arxiv.org/abs/2208.03890)
 
