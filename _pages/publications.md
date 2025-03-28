@@ -36,7 +36,7 @@ author_profile: true
 
 76\. Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models, Hamad El Kahza, William Taitano, Jing-Mei Qiu, Luis Chacón, Journal of Computational Physics, Volume 518, 1 December 2024, 113332. [arXiv](https://arxiv.org/abs/2404.03119)
 
-75\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, Advances in Computational Science and Engineering, accepted, [arXiv](https://arxiv.org/abs/2105.02421) 
+75\. Semi-Lagrangian nodal discontinuous Galerkin method for the BGK Model, M. Ding, J.-M. Qiu and R. Shu, Advances in Computational Science and Engineering, 2024 [arXiv](https://arxiv.org/abs/2105.02421) 
 
 74\. A Conservative Eulerian–Lagrangian Runge–Kutta Discontinuous Galerkin Method for Linear Hyperbolic System with Large Time Stepping, X. Hong and J.-M. Qiu, Joural of Scientific Computing, v98, 2024. [arXiv](https://arxiv.org/abs/2207.13736) 
 
