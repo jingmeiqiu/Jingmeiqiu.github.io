@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
-- An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations, William A. Sands, Jing-Mei Qiu, Daniel Hayes, Nanyi Zheng, https://arxiv.org/abs/2505.17191
+- An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations, William A. Sands, Jing-Mei Qiu, Daniel Hayes, Nanyi Zheng, [arXiv](https://arxiv.org/abs/2505.17191)
 
 - A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
   McClarren and Jing-Mei Qiu, [arXiv](http://arxiv.org/abs/2412.05912)
