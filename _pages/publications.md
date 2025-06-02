@@ -19,11 +19,10 @@ author_profile: true
 
 - High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
 
-- Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, [arXiv](https://arxiv.org/abs/2302.07291)
-
-
 
 ## Journal/Conference/Book Chapter Publications
+83\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, ESAIM: Mathematical Modelling and Numerical Analysis, [arXiv](https://arxiv.org/abs/2302.07291)
+
 82\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, Volume 532, 1 July 2025, 113970, [arXiv](https://arxiv.org/abs/2411.17963)
 
 81\. Non-splitting Eulerian-Lagrangian WENO schemes for two-dimensional nonlinear convection-diffusion equations, Nanyi Zheng, Xiaofeng Cai, Jing-Mei Qiu, and Jianxian Qiu, Journal of Computational Physics, Volume 529, 15 May 2025, [arXiv](http://arxiv.org/abs/2406.01479)
