@@ -10,9 +10,6 @@ author_profile: true
 ## Preprints
 - An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations, William A. Sands, Jing-Mei Qiu, Daniel Hayes, Nanyi Zheng, [arXiv](https://arxiv.org/abs/2505.17191)
 
-- A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
-  McClarren and Jing-Mei Qiu, [arXiv](http://arxiv.org/abs/2412.05912)
-
 - Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, [arXiv](https://www.arxiv.org/abs/2410.19662)
 
 - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
@@ -21,6 +18,9 @@ author_profile: true
 
 
 ## Journal/Conference/Book Chapter Publications
+84\. A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
+  McClarren and Jing-Mei Qiu, Journal of Computational Physics, [arXiv](http://arxiv.org/abs/2412.05912)
+
 83\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, ESAIM: Mathematical Modelling and Numerical Analysis, [arXiv](https://arxiv.org/abs/2302.07291)
 
 82\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, Volume 532, 1 July 2025, 113970, [arXiv](https://arxiv.org/abs/2411.17963)
