@@ -23,7 +23,7 @@ author_profile: true
 84\. A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
   McClarren and Jing-Mei Qiu, Journal of Computational Physics, 2025, 114191, [arXiv](http://arxiv.org/abs/2412.05912)
 
-83\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, ESAIM: Mathematical Modelling and Numerical Analysis, [arXiv](https://arxiv.org/abs/2302.07291)
+83\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, ESAIM: Mathematical Modelling and Numerical Analysis, 2025, 1831-1861, [arXiv](https://arxiv.org/abs/2302.07291)
 
 82\. A Semi-Lagrangian Adaptive-Rank (SLAR) Method for Linear Advection and Nonlinear Vlasov-Poisson System, Nanyi Zheng, Daniel Hayes, Andrew Christlieb, Jing-Mei Qiu, Journal of Computational Physics, Volume 532, 1 July 2025, 113970, [arXiv](https://arxiv.org/abs/2411.17963)
 
@@ -31,7 +31,7 @@ author_profile: true
 
 80\. Fourth-order conservative non-splitting semi-Lagrangian Hermite WENO schemes for kinetic and fluid simulations, N. Zheng, X. Cai, J.-M. Qiu, J. Qiu, Journal of Scientific Computing, v99 (2024). [arXiv](https://arxiv.org/abs/2208.03890)
 
-79\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, SIAM Journal of Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2311.15143)
+79\. Reduced Augmentation Implicit Low-rank (RAIL) integrators for advection-diffusion and Fokker-Planck models, Joseph Nakao, Jing-Mei Qiu, Lukas Einkemmer, SIAM Journal of Scientific Computing, (2025), A1145--A1169, [arXiv](https://arxiv.org/abs/2311.15143)
 
 78\. A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for nonlinear scalar conservation laws, Jiajie Chen, Joseph Nakao, Jing-Mei Qiu, Yang Yang, Journal of Scientific Computing, Volume 102, article number 12, (2025), [arXiv](http://arxiv.org/abs/2405.09835)
 
