@@ -21,7 +21,7 @@ author_profile: true
 
 ## Journal/Conference/Book Chapter Publications
 84\. A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
-  McClarren and Jing-Mei Qiu, Journal of Computational Physics, [arXiv](http://arxiv.org/abs/2412.05912)
+  McClarren and Jing-Mei Qiu, Journal of Computational Physics, 2025, 114191, [arXiv](http://arxiv.org/abs/2412.05912)
 
 83\. Stability analysis of the Eulerian-Lagrangian finite volume methods for nonlinear hyperbolic equations in one space dimension, Y. Yang, J. Chen and J.-M. Qiu, ESAIM: Mathematical Modelling and Numerical Analysis, [arXiv](https://arxiv.org/abs/2302.07291)
 
