@@ -31,10 +31,24 @@ Award
 - Award for Excellence in Research, Scholarship or Creative Activity, University of Houston, 2017.
 - Air Force Office of Scientific Research, Young Investigator Award, 2012-2015.
 - Ostrach Fellowship, Division of Applied Mathematics, Brown University, 2006.
-  
 
 Editorial Board
 ======
 - Associate Editor, Kinetic and Related Models, 2025-
 - Associate Editor, CSIAM Transactions on Applied Mathematics (CSIAM-AM), July 2022 - July 2025.
 - Associate Editor, Computational Mathematics for Engineering and Sciences (CMES), 2022-2024. 
+
+Scientific Committees
+======  
+- Finite Volumes for Complex Applications 10, October 30 - November 3, 2023.
+– Workshop on Moment Methods in Kinetic Theory, 2023.
+
+Plenary speaker
+======  
+- Efficient high-order time discretization methods for PDEs, Capri, Italy, May 2019
+- Midwest Numerical Analysis Day 2025, April, 2025.
+- International Congress on Spectral and High-Order Methods (ICOSAHOM 2025), Montreal, July 2025
+
+Society Committee
+======  
+- AWM SIAM committee: Sep 2025 - Aug 2027
