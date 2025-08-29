@@ -18,10 +18,10 @@ author_profile: true
 
 - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
 
-- High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, [arXiv](https://arxiv.org/abs/2406.19479)
-
 
 ## Journal/Conference/Book Chapter Publications
+85\. - High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, SIAM Journal on Scientific Computing, [arXiv](https://arxiv.org/abs/2406.19479). 
+
 84\. A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
   McClarren and Jing-Mei Qiu, Journal of Computational Physics, 2025, 114191, [arXiv](http://arxiv.org/abs/2412.05912)
 
