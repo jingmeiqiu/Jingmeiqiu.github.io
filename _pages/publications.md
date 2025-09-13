@@ -14,12 +14,13 @@ author_profile: true
 
 - An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations, William A. Sands, Jing-Mei Qiu, Daniel Hayes, Nanyi Zheng, [arXiv](https://arxiv.org/abs/2505.17191)
 
-- Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, [arXiv](https://www.arxiv.org/abs/2410.19662)
 
 - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
 
 
 ## Journal/Conference/Book Chapter Publications
+86\. Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, Journal of Computational Physics, [arXiv](https://www.arxiv.org/abs/2410.19662)
+
 85\. - High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, SIAM Journal on Scientific Computing, [arXiv](https://arxiv.org/abs/2406.19479). 
 
 84\. A review of low-rank methods for time-dependent kinetic simulations,  Lukas Einkemmer, Katharina Kormann, Jonas Kusch, Ryan G.
