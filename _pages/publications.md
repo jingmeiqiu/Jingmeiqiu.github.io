@@ -19,7 +19,7 @@ author_profile: true
 
 
 ## Journal/Conference/Book Chapter Publications
-86\. Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Inhomogeneous Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, Journal of Computational Physics, [arXiv](https://www.arxiv.org/abs/2410.19662)
+86\. Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Variable Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, Journal of Computational Physics, [arXiv](https://www.arxiv.org/abs/2410.19662)
 
 85\. - High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format, William A. Sands, Wei Guo, Jing-Mei Qiu, Tao Xiong, SIAM Journal on Scientific Computing, [arXiv](https://arxiv.org/abs/2406.19479). 
 
