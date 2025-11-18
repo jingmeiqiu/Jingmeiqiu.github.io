@@ -14,10 +14,10 @@ author_profile: true
 
 - A Sampling-Based Adaptive Rank Approach to the Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, [arXiv](https://arxiv.org/abs/2506.21314)
 
-- Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, [arXiv](https://arxiv.org/abs/2407.11290)
-
 
 ## Journal/Conference/Book Chapter Publications
+88\. - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, SIAM Journal on Scientific Computing, [arXiv](https://arxiv.org/abs/2407.11290)
+
 87\. An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations, William A. Sands, Jing-Mei Qiu, Daniel Hayes, Nanyi Zheng, Journal of Computational Physics, [arXiv](https://arxiv.org/abs/2505.17191)
 
 86\. Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Variable Coefficients, Hamad El Kahza, Jing-Mei Qiu, Luis Chacon, William Taitano, Journal of Computational Physics, Volume 543, 15 December 2025, 114377, [arXiv](https://www.arxiv.org/abs/2410.19662)
