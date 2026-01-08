@@ -34,6 +34,8 @@ Award
 
 Editorial Board
 ======
+- Associate Editor, SIAM Journal on Numerical Analysis, 2026 -
+- Associate Editor, SIAM Journal on Scientific Computing, 2026 - 
 - Associate Editor, Kinetic and Related Models, 2025-
 - Associate Editor, CSIAM Transactions on Applied Mathematics (CSIAM-AM), July 2022 - July 2025.
 - Associate Editor, Computational Mathematics for Engineering and Sciences (CMES), 2022-2024. 
