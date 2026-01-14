@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
-- A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation, Hamad El Kahza, Luis Chacón, William Taitano, Jingmei Qiu, Jingwei Hu, [arXiv](https://www.arxiv.org/abs/2601.08006)
+- A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation, Hamad El Kahza, Luis Chacón, William Taitano, Jing-Mei Qiu, Jingwei Hu, [arXiv](https://www.arxiv.org/abs/2601.08006)
 
 - A Semi-Lagrangian Adaptive Rank (SLAR) Method for High-Dimensional Vlasov Dynamics, Nanyi Zheng, William A. Sands, Daniel Hayes, Andrew J. Christlieb, Jing-Mei Qiu, [arXiv](http://arxiv.org/abs/2510.24861)
 
