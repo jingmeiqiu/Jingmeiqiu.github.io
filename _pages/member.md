@@ -10,7 +10,6 @@ author_profile: true
 - Isaac Castro
 - Gitansh Dandona
 - Hamad El Kahza
-- Aidan Hamilton
 
 ## Current Postdocs: 
 
