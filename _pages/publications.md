@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
-- An Efficient and Robust Projection-Enhanced Interpolation-Based Tensor Train Decomposition, Daniel Hayes, Jing-Mei Qiu, Tianyi Shi, preprint available.
+- An Efficient and Robust Projection-Enhanced Interpolation-Based Tensor Train Decomposition, Daniel Hayes, Jing-Mei Qiu, Tianyi Shi, [arXiv](https://arxiv.org/abs/2602.07653).
 
 - A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation, Hamad El Kahza, Luis Chacón, William Taitano, Jing-Mei Qiu, Jingwei Hu, [arXiv](https://www.arxiv.org/abs/2601.08006)
 
