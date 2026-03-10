@@ -16,10 +16,9 @@ author_profile: true
 
 - A Nodal Discontinuous Galerkin Method with Low-Rank Velocity Space Representation for the Multi-Scale BGK Model, Andres Galindo-Olarte, Joseph Nakao, Mirjeta Pasha, Jing-Mei Qiu, William Taitano, [arXiv](https://arxiv.org/abs/2508.16564)
 
-- A Sampling-Based Adaptive Rank Approach to the Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, [arXiv](https://arxiv.org/abs/2506.21314)
-
-
 ## Journal/Conference/Book Chapter Publications
+89\. A Sampling-Based Adaptive Rank Approach to the Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, SIAM Journal on Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2506.21314)
+
 88\. - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, SIAM Journal on Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2407.11290)
 
 87\. An Adaptive-rank Approach with Greedy Sampling for Multi-scale BGK Equations, William A. Sands, Jing-Mei Qiu, Daniel Hayes, Nanyi Zheng, Journal of Computational Physics, Volume 547, 15 February 2026, 114523, [arXiv](https://arxiv.org/abs/2505.17191)
