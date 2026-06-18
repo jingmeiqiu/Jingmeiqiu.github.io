@@ -8,6 +8,10 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+- A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, submitted. 
+
+- A Structure-preserving Adaptive-Rank Approach to the High-Dimensional Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, [arXiv](https://arxiv.org/pdf/2606.15067v1).
+
 - Efficient Sketching-Based Summation of Tucker Tensors, Rudi Smith, Mirjeta Pasha, Andrés Galindo-Olarte, Hussam Al Daas, Grey Ballard, Joseph Nakao, Jing-Mei Qiu, William Taitano, [arXiv](https://arxiv.org/abs/2603.13532).
   
 - An Efficient and Robust Projection-Enhanced Interpolation-Based Tensor Train Decomposition, Daniel Hayes, Jing-Mei Qiu, Tianyi Shi, [arXiv](https://arxiv.org/abs/2602.07653).
