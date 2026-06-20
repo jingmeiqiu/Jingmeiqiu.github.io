@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
-- A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, submitted. 
+- A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.20234). 
 
 - A Structure-preserving Adaptive-Rank Approach to the High-Dimensional Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, [arXiv](https://arxiv.org/pdf/2606.15067v1).
 
