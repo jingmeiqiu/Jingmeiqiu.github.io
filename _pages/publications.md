@@ -8,6 +8,8 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
+- A Mass, Momentum, and Energy Conserving Semi-Lagrangian Adaptive-Rank (SLAR) Method for the Vlasov-Poisson System,  Nanyi Zheng, William A. Sands, and Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.29027)
+
 - A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.20234). 
 
 - A Structure-preserving Adaptive-Rank Approach to the High-Dimensional Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, [arXiv](https://arxiv.org/pdf/2606.15067v1).
@@ -18,11 +20,11 @@ author_profile: true
 
 - A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation, Hamad El Kahza, Luis Chacón, William Taitano, Jing-Mei Qiu, Jingwei Hu, [arXiv](https://www.arxiv.org/abs/2601.08006)
 
-- A Semi-Lagrangian Adaptive Rank (SLAR) Method for High-Dimensional Vlasov Dynamics, Nanyi Zheng, William A. Sands, Daniel Hayes, Andrew J. Christlieb, Jing-Mei Qiu, [arXiv](http://arxiv.org/abs/2510.24861)
-
 - A Nodal Discontinuous Galerkin Method with Low-Rank Velocity Space Representation for the Multi-Scale BGK Model, Andres Galindo-Olarte, Joseph Nakao, Mirjeta Pasha, Jing-Mei Qiu, William Taitano, [arXiv](https://arxiv.org/abs/2508.16564)
 
 ## Journal/Conference/Book Chapter Publications
+90\. A Semi-Lagrangian Adaptive Rank (SLAR) Method for High-Dimensional Vlasov Dynamics, Nanyi Zheng, William A. Sands, Daniel Hayes, Andrew J. Christlieb, Jing-Mei Qiu, SIAM Journal on Scientific Computing, accepted, [arXiv](http://arxiv.org/abs/2510.24861)
+
 89\. A Sampling-Based Adaptive Rank Approach to the Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, SIAM Journal on Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2506.21314)
 
 88\. - Distributed Memory Parallel Adaptive Tensor-Train Cross Approximation, T. Shi, D. Hayes, J.-M. Qiu, SIAM Journal on Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2407.11290)
