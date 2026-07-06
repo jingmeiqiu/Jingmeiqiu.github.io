@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
 
 ## Preprints
-- A Mass, Momentum, and Energy Conserving Semi-Lagrangian Adaptive-Rank (SLAR) Method for the Vlasov-Poisson System,  Nanyi Zheng, William A. Sands, and Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.29027)
+- A Mass, Momentum, and Energy Conserving Semi-Lagrangian Adaptive-Rank (SLAR) Method for the Vlasov-Poisson System,  Nanyi Zheng, William A. Sands, and Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.29027). 
 
 - A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.20234). 
 
