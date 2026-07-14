@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=eCEowlgAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=uGHKQGAAAAAJ&hl=en)
 
 ## Preprints
 - A Mass, Momentum, and Energy Conserving Semi-Lagrangian Adaptive-Rank (SLAR) Method for the Vlasov-Poisson System,  Nanyi Zheng, William A. Sands, and Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.29027). 
