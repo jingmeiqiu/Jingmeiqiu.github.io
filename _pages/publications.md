@@ -8,6 +8,8 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=uGHKQGAAAAAJ&hl=en)
 
 ## Preprints
+- Nonnegative Low-Rank Matrix Correction under an Orthogonality Constraint in Conservative Vlasov Simulations, Yue Wu, Stephen Becker, Jing-Mei Qiu, Xiangxiong Zhang, [arXiv](https://arxiv.org/abs/2607.26272)
+
 - A Mass, Momentum, and Energy Conserving Semi-Lagrangian Adaptive-Rank (SLAR) Method for the Vlasov-Poisson System,  Nanyi Zheng, William A. Sands, and Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.29027). 
 
 - A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.20234). 
