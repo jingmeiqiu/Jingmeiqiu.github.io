@@ -15,8 +15,6 @@ author_profile: true
 - A Conservative Adaptive Rank Method for the Wigner-Poisson System, Andrew J. Christlieb, Sining Gong, F. Alejandro Padilla-Gomez, Jing-Mei Qiu, [arXiv](https://arxiv.org/abs/2606.20234). 
 
 - A Structure-preserving Adaptive-Rank Approach to the High-Dimensional Wigner-Poisson System, Andrew Christlieb, Sining Gong, Jing-Mei Qiu, Nanyi Zheng, [arXiv](https://arxiv.org/pdf/2606.15067v1).
-
-- Efficient Sketching-Based Summation of Tucker Tensors, Rudi Smith, Mirjeta Pasha, Andrés Galindo-Olarte, Hussam Al Daas, Grey Ballard, Joseph Nakao, Jing-Mei Qiu, William Taitano, [arXiv](https://arxiv.org/abs/2603.13532).
   
 - An Efficient and Robust Projection-Enhanced Interpolation-Based Tensor Train Decomposition, Daniel Hayes, Jing-Mei Qiu, Tianyi Shi, [arXiv](https://arxiv.org/abs/2602.07653).
 
@@ -25,6 +23,8 @@ author_profile: true
 - A Nodal Discontinuous Galerkin Method with Low-Rank Velocity Space Representation for the Multi-Scale BGK Model, Andres Galindo-Olarte, Joseph Nakao, Mirjeta Pasha, Jing-Mei Qiu, William Taitano, [arXiv](https://arxiv.org/abs/2508.16564)
 
 ## Journal/Conference/Book Chapter Publications
+92\. Efficient Sketching-Based Summation of Tucker Tensors, Rudi Smith, Mirjeta Pasha, Andrés Galindo-Olarte, Hussam Al Daas, Grey Ballard, Joseph Nakao, Jing-Mei Qiu, William Taitano, SIAM Journal on Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2603.13532).
+
 91\. MOSAiC: Multi-site One-Shot Aggregation of Compressed Risk Functions, Y Chen, Y Lu, J-M Qiu, H Wang, Y Wang, Journal of the American Statistical Association, 1-26. 
 
 90\. A Semi-Lagrangian Adaptive Rank (SLAR) Method for High-Dimensional Vlasov Dynamics, Nanyi Zheng, William A. Sands, Daniel Hayes, Andrew J. Christlieb, Jing-Mei Qiu, SIAM Journal on Scientific Computing, accepted, [arXiv](http://arxiv.org/abs/2510.24861)
