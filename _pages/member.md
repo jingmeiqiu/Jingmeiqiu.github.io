@@ -9,7 +9,6 @@ author_profile: true
 
 - Isaac Castro
 - Gitansh Dandona
-- Hamad El Kahza
 
 ## Current Postdocs: 
 
@@ -19,6 +18,7 @@ author_profile: true
   
 ## Past Ph.D. students:
 
+- Hamad El Kahza (2025). First job: Mark Kac Postdoctoral Fellow in Applied Mathematics, Los Alamos National Lab.  
 - Dr. Joseph Nakao (2023). First job: Assistant Professor in Swarthmore College. 
 - Dr. Jiajie Chen (2022). First job: application developer in University of Pennsylvnia. 
 - Dr. Linjin Li (2021). First job: Temporary Assistant Professor at University of Delaware.
