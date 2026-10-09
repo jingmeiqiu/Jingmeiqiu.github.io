@@ -13,7 +13,6 @@ author_profile: true
 ## Current Postdocs: 
 
 - Dr. Daniel Hayes
-- Dr. William Sands
 - Dr. Nanyi Zheng
   
 ## Past Ph.D. students:
@@ -28,7 +27,8 @@ author_profile: true
 
 ## Past postdoc: 
 
-- Dr. Xue Hong, Sep.2021-Nov.2021, currently postdoc at INRIA, University of Rennes, France.
+- Dr. William Sands, July 2023 - April 2026, currently Metropolis Fellowship, Los Alamos National Lab.
+- Dr. Xue Hong, Sep.2021-Nov.2021, moved to be a postdoc at INRIA, University of Rennes, France.
 - Dr. Xiaofeng Cai, July 2016- July 2021, currently Associate Professor at Beijing Normal University.
 - Dr. Tao Xiong, Aug.2012-Aug.2015, currently Professor in Xiamen University.
 
