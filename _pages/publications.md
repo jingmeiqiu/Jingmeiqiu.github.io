@@ -18,11 +18,11 @@ author_profile: true
   
 - An Efficient and Robust Projection-Enhanced Interpolation-Based Tensor Train Decomposition, Daniel Hayes, Jing-Mei Qiu, Tianyi Shi, [arXiv](https://arxiv.org/abs/2602.07653).
 
-- A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation, Hamad El Kahza, Luis Chacón, William Taitano, Jing-Mei Qiu, Jingwei Hu, [arXiv](https://www.arxiv.org/abs/2601.08006)
-
 - A Nodal Discontinuous Galerkin Method with Low-Rank Velocity Space Representation for the Multi-Scale BGK Model, Andres Galindo-Olarte, Joseph Nakao, Mirjeta Pasha, Jing-Mei Qiu, William Taitano, [arXiv](https://arxiv.org/abs/2508.16564)
 
 ## Journal/Conference/Book Chapter Publications
+93\. A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation, Hamad El Kahza, Luis Chacón, William Taitano, Jing-Mei Qiu, Jingwei Hu, Journal of Computational Physics, [arXiv](https://www.arxiv.org/abs/2601.08006)
+
 92\. Efficient Sketching-Based Summation of Tucker Tensors, Rudi Smith, Mirjeta Pasha, Andrés Galindo-Olarte, Hussam Al Daas, Grey Ballard, Joseph Nakao, Jing-Mei Qiu, William Taitano, SIAM Journal on Scientific Computing, accepted, [arXiv](https://arxiv.org/abs/2603.13532).
 
 91\. MOSAiC: Multi-site One-Shot Aggregation of Compressed Risk Functions, Y Chen, Y Lu, J-M Qiu, H Wang, Y Wang, Journal of the American Statistical Association, 1-26. 
